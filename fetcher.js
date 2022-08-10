@@ -1,8 +1,6 @@
 const request = require("request");
 const fs = require("fs");
 const readline = require("readline");
-// const { dir } = require("console");
-// const path = require("path");
 
 const rl = readline.createInterface({
   input: process.stdin,
